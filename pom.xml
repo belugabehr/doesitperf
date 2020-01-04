@@ -47,5 +47,6 @@
 		<module>queue</module>
 		<module>toarray</module>
 		<module>list</module>
+		<module>slf4j-parameter</module>
 	</modules>
 </project>

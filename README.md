@@ -24,6 +24,7 @@ JMH is a Java harness for building, running, and analysing nano/micro/milli/macr
 * List Insertion and Iteration
 * Queue Insertion
 * Converting Java Collection to Native Array
+* SLF4J Parameterized Logging
 
 ## Requirements
 1. Java 1.8
