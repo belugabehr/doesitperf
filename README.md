@@ -25,10 +25,17 @@ JMH is a Java harness for building, running, and analysing nano/micro/milli/macr
 * Queue Insertion
 * Converting Java Collection to Native Array
 * SLF4J Parameterized Logging
+* Random Number Generator
 
 ## Requirements
 1. Java 1.8
 2. Maven
+
+## Caveats
+
+> REMEMBER: The numbers produced by this test suite are just data. To gain reusable insights, you need to follow up on why the numbers are the way they are. Use profilers (see -prof, -lprof), design factorial experiments, perform baseline and negative tests that provide experimental control, make sure the benchmarking environment is safe on JVM/OS/HW level, ask for reviews from the domain experts. Do not assume the numbers tell you what you want them to tell.
+
+ \- JMH Runtime Output
 
 ## Additional Reading
 
