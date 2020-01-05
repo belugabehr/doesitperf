@@ -49,5 +49,6 @@
 		<module>list</module>
 		<module>slf4j-parameter</module>
 		<module>random</module>
+		<module>strconcat</module>
 	</modules>
 </project>

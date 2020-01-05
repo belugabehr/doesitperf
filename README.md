@@ -26,6 +26,7 @@ JMH is a Java harness for building, running, and analysing nano/micro/milli/macr
 * Converting Java Collection to Native Array
 * SLF4J Parameterized Logging
 * Random Number Generator
+* String Concatenation
 
 ## Requirements
 1. Java 1.8
